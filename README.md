@@ -1,4 +1,4 @@
-# Traffic Light Design Using Logic Circuit
+# Traffic Light Design
 <img src=https://user-images.githubusercontent.com/36858976/153639448-8ce95d5b-9805-476a-81cd-0cbfed22d8a1.png width=800>
 
 ## Problem Statement
