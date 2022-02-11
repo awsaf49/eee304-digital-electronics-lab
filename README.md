@@ -1,5 +1,5 @@
 # Traffic Light Design
-<img src=https://user-images.githubusercontent.com/36858976/153639448-8ce95d5b-9805-476a-81cd-0cbfed22d8a1.png width=800>
+<img src=https://www.wallpapertip.com/wmimgs/220-2204641_traffic-light-wallpaper.jpg width=800>
 
 ## Problem Statement
 Design Automated Traffic Control with RGB LEDs and only Digital Logic Circuits. First think where appropriate traffic lights would need to be placed. Make a sketch of the roads and plan accordingly. Give necessary delays in each light. Only the major roads need to be accounted for, ignore restricted access roads (for example, BUET Sonali Bank Road).
