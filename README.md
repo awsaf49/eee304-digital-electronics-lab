@@ -17,3 +17,6 @@ Design Automated Traffic Control with RGB LEDs and only Digital Logic Circuits. 
 ## Description
 * Location: Polashi Mor, Dhaka, Bangladesh.
 * Software: Proteus
+
+## Video Presentation
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8hj4NYMJRA0/0.jpg)](https://www.youtube.com/watch?v=8hj4NYMJRA0)
