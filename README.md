@@ -1,4 +1,4 @@
-# Traffic Light Design
+# Automatic Traffic Light Control
 <img src=https://www.wallpapertip.com/wmimgs/220-2204641_traffic-light-wallpaper.jpg width=800>
 
 ## Problem Statement
